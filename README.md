@@ -1,6 +1,9 @@
-## Y. Shirley Li
+## Shirley Li
 
 [765-430-8920](tel:+17654308920) | [li1050@purdue.edu](mailto:li1050@purdue.edu) | [LinkedIn](https://www.linkedin.com/in/yueli1) | [GitHub](https://github.com/lishirley89)
+
+### Resume
+[Download Resume (PDF)](docs/Shirley_Li_Resume.pdf)
 
 ### Summary
 Experienced GIS Specialist and Data Scientist with 9+ years in statistical modeling, operations research, and data analytics. Skilled in Python, R, and SQL, with expertise in sustainability, transportation, and geospatial technologies to drive data-informed decision-making.
@@ -35,15 +38,13 @@ GIS Specialist / Instructor / Analyst | 2016–2025
 **Solar-Powered Bike Share Station Modeling** — Python, Simulation, Optimization, Energy consumption, LCA  
 [Repository](https://github.com/lishirley89/Bike_share_solar_self_efficiency)
 
-### Resume
-[Download Resume (PDF)](docs/Shirley_Li_Resume.pdf)
 - Developed a simulation framework in Python for PV-battery charging, discharging, and replacement cycles
 - Analyzed variable solar potential and energy consumption, identifying overlooked battery replacement needs
 - Recommended optimization strategies that improved energy independence by 30% and reduced downtime by 50%
 - Enhanced life cycle analysis (LCA) to more accurately quantify environmental impacts and carbon emission rate
 
 **Alien Forest Pest Explorer** — SQL, JavaScript, Dashboard, Stakeholder collaboration
-- [Website](https://mapsweb.lib.purdue.edu/AFPE/)
+[Website](https://mapsweb.lib.purdue.edu/AFPE/)
 - Developed the first nation-wide, county-scale interactive dashboards, enabling users to track spread and impacts
 - Built data workflows to manage and visualize invasive species datasets for effective forest management and policy
 - Created new application features and implemented custom functionality using JavaScript
