@@ -2,7 +2,6 @@
 
 [765-430-8920](tel:+17654308920) | [li1050@purdue.edu](mailto:li1050@purdue.edu) | [LinkedIn](https://www.linkedin.com/in/yueli1) | [GitHub](https://github.com/lishirley89)
 
-### Resume
 [Download Resume (PDF)](docs/Shirley_Li_Resume.pdf)
 
 ### Summary
