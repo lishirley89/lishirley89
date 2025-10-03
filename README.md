@@ -16,7 +16,7 @@ GIS Specialist / Instructor / Analyst | 2016–2025
 
 ### Education
 **Purdue University — West Lafayette, IN**  
-- Ph.D. in Sustainability Engineering (2020–2026)  
+- Ph.D. in Sustainability Engineering and Environmental Engineering (2020–2026)  
 - Graduate Certificate in Applied Statistics (2018–2020)  
 - M.S. in Civil Engineering (2012–2014)
 
@@ -27,16 +27,17 @@ GIS Specialist / Instructor / Analyst | 2016–2025
 - Bachelor’s in GIS (dual degree) (2008–2010)
 
 ### Projects
-**Demand Prediction for Bike Share System Expansion** — ML pipeline, XGBoost, Docker, CI/CD, AWS, ECR, S3  
+**Demand Prediction for Bike Share System Expansion** — ML pipeline, XGBoost, Docker, AWS, Leaflet  
 [Repository](https://github.com/lishirley89/Demand-Prediction-for-Bike-Share-System-Expansion)
 - Developed ML pipeline to predict station demand using XGBoost/linear regression with 4+ years of trip data
 - Engineered spatial features from census, POI, and infrastructure layers, and optimized performance
-- Containerized the trained model with Docker and deployed a serverless FastAPI inference API on AWS (ECR, Lambda, API Gateway), integrating S3 for feature storage and CloudWatch for monitoring
-- Built an interactive web map (Leaflet hosted on S3/Amplify) for users to receive real-time demand predictions
+- Deployed a containerized model as a serverless FastAPI inference service on AWS (ECR, Lambda, API Gateway)
+- Built an interactive web map (Leaflet hosted on Amplify) for users to receive real-time demand predictions
 
 **Solar-Powered Bike Share Station Modeling** — Python, Simulation, Optimization, Energy consumption, LCA  
 [Repository](https://github.com/lishirley89/Bike_share_solar_self_efficiency)
 
+- Pioneered the first study to quantify overlooked battery replacement needs (published in Applied Energy, 2023[link](https://doi.org/10.1016/j.apenergy.2023.121505))
 - Developed a simulation framework in Python for PV-battery charging, discharging, and replacement cycles
 - Analyzed variable solar potential and energy consumption, identifying overlooked battery replacement needs
 - Recommended optimization strategies that improved energy independence by 30% and reduced downtime by 50%
