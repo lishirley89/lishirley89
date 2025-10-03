@@ -5,7 +5,7 @@
 [Download Resume (PDF)](docs/Shirley_Li_Resume.pdf)
 
 ### Summary
-Experienced GIS Specialist and Data Scientist with 9+ years in statistical modeling, operations research, and data analytics. Skilled in Python, R, and SQL, with expertise in sustainability, transportation, and geospatial technologies to drive data-informed decision-making.
+Experienced GIS Specialist and Ph.D. candidate with 9+ years in statistical modeling, operations research, and data analytics. Skilled in Python, R, and SQL, with expertise in sustainability, transportation, and geospatial technologies to drive data-informed decision-making.
 
 ### Experience
 **Purdue University Libraries and School of Information Studies — West Lafayette, IN**  
