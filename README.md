@@ -37,7 +37,7 @@ GIS Specialist / Instructor / Analyst | 2016–2025
 **Solar-Powered Bike Share Station Modeling** — Python, Simulation, Optimization, Energy consumption, LCA  
 [Repository](https://github.com/lishirley89/Bike_share_solar_self_efficiency)
 
-- Pioneered the first study to quantify overlooked battery replacement needs (published in Applied Energy, 2023[link](https://doi.org/10.1016/j.apenergy.2023.121505))
+- Pioneered the first study to quantify overlooked battery replacement needs (published in [Applied Energy, 2023](https://doi.org/10.1016/j.apenergy.2023.121505))
 - Developed a simulation framework in Python for PV-battery charging, discharging, and replacement cycles
 - Analyzed variable solar potential and energy consumption, identifying overlooked battery replacement needs
 - Recommended optimization strategies that improved energy independence by 30% and reduced downtime by 50%
