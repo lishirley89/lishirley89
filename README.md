@@ -10,13 +10,13 @@ Experienced GIS Specialist and Ph.D. candidate with 9+ years in statistical mode
 ### Experience
 **Purdue University Libraries and School of Information Studies — West Lafayette, IN**  
 GIS Specialist / Instructor / Analyst | 2016–2025
-- Partnered with senior faculty and research leadership to design and deploy data pipelines and scalable geospatial infrastructure, enabling 20+ cross-disciplinary projects
+- Designed and deployed data pipelines and scalable geospatial infrastructure, enabling 20+ cross-disciplinary projects
 - Developed and deployed interactive dashboards and custom web apps to support geovisualization across campus
 - Led workshops and certificate programs, driving adoption of data science and geospatial AI across disciplines
 
 ### Education
 **Purdue University — West Lafayette, IN**  
-- Ph.D. in Sustainability Engineering and Environmental Engineering (2020–2026)  
+- Ph.D. in Environmental and Ecological Engineering (2020–2026)  
 - Graduate Certificate in Applied Statistics (2018–2020)  
 - M.S. in Civil Engineering (2012–2014)
 
