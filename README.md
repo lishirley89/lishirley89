@@ -2,7 +2,7 @@
 
 [765-430-8920](tel:+17654308920) | [lishirley89@gmail.com](mailto:lishirley89@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yueli1) 
 
-I have 9+ years of experience in data analytics, machine learning, and geospatial engineering, building end-to-end pipelines, analytical models, and decision-support tools. I specialize in Python, R, and SQL with strengths in statistical modeling, data engineering, and LCA, applying these skills across transportation, energy, and sustainability domains. I’m now pursuing data scientist, data engineer, or analyst roles where I can leverage my technical depth and applied research background to solve complex problems and deliver scalable, data-driven solutions.
+I have 9+ years of experience in data analytics, machine learning, and geospatial engineering, building end-to-end pipelines, analytical models, and decision-support tools. I specialize in Python, R, and SQL with strengths in statistical modeling, data engineering, and LCA, applying these skills across transportation, energy, and sustainability domains. 
 
 ### Featured Projects
 ### Demand Prediction for Bike Share System Expansion ### 
