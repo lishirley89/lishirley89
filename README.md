@@ -24,7 +24,7 @@ Final product: streamlit app for visualizing bike share demand predictions for C
 </div>
 
 
-![Bike Demand Predictions App](https://github.com/lishirley89/bike-demand-batch-inference/blob/390834e576e44d0da93be59de9008aaa85123df1/viz/demand-gif.gif?raw=true)
+![Bike Demand Predictions App](https://github.com/lishirley89/bike-demand-batch-inference/blob/546b0ff0e768ebe9416969d7a8cfedae27f44c2e/viz/bike-demand-inference.png?raw=true)
 
 
 #### Model Performance Summary
