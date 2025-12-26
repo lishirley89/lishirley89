@@ -46,7 +46,7 @@ Final product: streamlit app for visualizing bike share demand predictions for C
 4. **Socioeconomic factors matter** - per capita income and demographic composition are highly influential
 5. **Infrastructure proximity** - nearby stations and transportation access significantly impact demand
 
-### Solar-Powered Bike Share Station Modeling ([Repo](https://github.com/lishirley89/Bike_share_solar_self_efficiency))   
+### Solar-Powered Bike Share Station Modeling ([Repo](https://github.com/lishirley89/Bike_share_solar_self_efficiency), [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0306261923008693))   
 
 This study analyzes the performances of PV-battery systems for bike share stations and evaluates strategies to improve their energy independence, sustainability, and system reliability. Using Chicago's Divvy bike share system as a case study, we simulated the battery charging, discharging, and replacements, and measured their performances with three metrics: energy self-sufficiency level, energy payback time (EPBT), and station downtime. 
 
