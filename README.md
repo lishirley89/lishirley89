@@ -27,21 +27,20 @@ Final product: streamlit app for visualizing bike share demand predictions for C
 
 #### Model Performance Summary
 
-| Model Type | Target Variable | Test R² | Test RMSE | Test MAE |
-|------------|----------------|---------|-----------|----------|
-| **XGBoost** | cbike_start | **0.796** | 4.93 | 2.25 |
-| **XGBoost** | cbike_end | **0.795** | 4.95 | 2.27 |
-| **XGBoost** | ebike_start | **0.897** | 2.87 | 1.36 |
-| **XGBoost** | ebike_end | **0.892** | 2.92 | 1.36 |
-| Linear Regression | cbike_start | 0.364 | 8.72 | 5.89 |
-| Linear Regression | cbike_end | 0.353 | 8.78 | 5.90 |
-| Linear Regression | ebike_start | 0.552 | 5.99 | 3.54 |
-| Linear Regression | ebike_end | 0.544 | 6.01 | 3.52 |
-
+| Model Type | Target Variable | Test RMSE | Test MAE |
+|------------|----------------|-----------|----------|
+| **XGBoost** | cbike_start | 4.93 | 2.25 |
+| **XGBoost** | cbike_end | 4.95 | 2.27 |
+| **XGBoost** | ebike_start | 2.87 | 1.36 |
+| **XGBoost** | ebike_end | 2.92 | 1.36 |
+| Linear Regression | cbike_start | 8.72 | 5.89 |
+| Linear Regression | cbike_end | 8.78 | 5.90 |
+| Linear Regression | ebike_start | 5.99 | 3.54 |
+| Linear Regression | ebike_end | 6.01 | 3.52 |
 #### Key Findings
 
 1. **XGBoost significantly outperforms Linear Regression** across all target variables
-2. **Electric bike demand is more predictable** than classic bike demand (R² > 0.89 vs ~0.80)
+2. **Electric bike demand is more predictable** than classic bike demand (RMSE<3 vs ~6)
 3. **Seasonal patterns are critical** - month features rank among top predictors
 4. **Socioeconomic factors matter** - per capita income and demographic composition are highly influential
 5. **Infrastructure proximity** - nearby stations and transportation access significantly impact demand
